@@ -9,8 +9,7 @@ metaDAOs are used by DAOs to create DAOs that are comprised of DAOs. There are a
 metaDAOs can also be used in conjunction with fundraising projects to allow a group of DAOs to package themselves as somewhat of an index - thereby increasing fundraising opportunities.  
 
 ## Technologies
-metaDAO technologies include the MTOTM project and the metaDAO user interface. All software is open source and available:
-https://github.com/not-that-metaDAO/
+metaDAO technologies include the MTOTM project and the metaDAO user interface.
 
 MTOTM stands for Many to One to Many atomic swap.  The underlying smart contracts enable many token owners to swap tokens at a fixed ratio in return for an equal share of governance tokens in a newly created metaDAO.
 
