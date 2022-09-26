@@ -8,6 +8,9 @@ metaDAOs are used by DAOs to create DAOs that are comprised of DAOs. There are a
 
 metaDAOs can also be used in conjunction with fundraising projects to allow a group of DAOs to package themselves as somewhat of an index - thereby increasing fundraising opportunities.  
 
+Please join us and contribute your use cases, questions, and degen DAO leadership:  
+https://discord.gg/2atZxZhRSK
+
 ## Technologies
 metaDAO technologies include the MTOTM project and the metaDAO user interface.
 
